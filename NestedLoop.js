@@ -1,3 +1,5 @@
+var arrayOfNumber = [5, 8, 0, 10, 15, 19, 2]
+console.log(isDuplicate(arrayOfNumber))
 
 // A function to check is an array duplicated
 function isDuplicate(array) {
